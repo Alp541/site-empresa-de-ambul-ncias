@@ -1,0 +1,21 @@
+.navbar-brand img {
+    margin-right: 0px; 
+}
+
+.navbar-brand{
+    background-color: aqua;
+    width: 100px;
+}
+
+#ambu{
+    height: 50px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#icone1 , #icone2 ,#icone3{
+    max-width:50px;
+}
